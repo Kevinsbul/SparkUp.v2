@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SparkUp</string>
+    <string name="error_empty">Please enter a time of day to start!</string>
+</resources>
