@@ -34,3 +34,10 @@ Afternoon Snack Time: Send a quick "thinking of you" message.
 Dinner: Call a friend or relative for a 5-minute catch-up.
 
 Night: Leave a thoughtful comment on a friend's post.
+
+Kevin Siaga ST10532380
+Lehumo Lasehla ST10536487
+Managa Mashudu ST10510345
+BANELE NTSHINGILA ST10534276
+BOTSHELO NONYANE ST10525914
+Itumeleng MOLEPO ST10519228
