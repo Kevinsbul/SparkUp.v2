@@ -51,6 +51,7 @@ Data Handling --  src/utils/dataHandler.ts	 --    Manages the parsing of menu it
 UI Layout	  --    res/layout/activity_main.xml --  Defines the grid structure of the dashboard.
 User Input  --	  src/components/Form.tsx	--       Handles validation for user-submitted text.
 
+Team members
 Kevin Siaga ST10532380
 Lehumo Lasehla ST10536487
 Managa Mashudu ST10510345
