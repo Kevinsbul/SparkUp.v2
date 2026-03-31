@@ -35,6 +35,22 @@ Dinner: Call a friend or relative for a 5-minute catch-up.
 
 Night: Leave a thoughtful comment on a friend's post.
 
+Project Structure
+
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/project/  <-- Core Kotlin Logic
+│   │   │   └── res/layout/        <-- UI XML Files
+├── components/                    <-- Shared UI Components
+├── README.md
+└── package.json
+
+Requirement:	    File Reference:  	               Description:
+Data Handling --  src/utils/dataHandler.ts	 --    Manages the parsing of menu items.
+UI Layout	  --    res/layout/activity_main.xml --  Defines the grid structure of the dashboard.
+User Input  --	  src/components/Form.tsx	--       Handles validation for user-submitted text.
+
 Kevin Siaga ST10532380
 Lehumo Lasehla ST10536487
 Managa Mashudu ST10510345
